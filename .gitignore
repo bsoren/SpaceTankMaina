@@ -1,0 +1,7 @@
+shmup
+shump.app/*
+*.spec
+test.py
+venv
+.idea
+.DS_Store
